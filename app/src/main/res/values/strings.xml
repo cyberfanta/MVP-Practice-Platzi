@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVC Practice Platzi</string>
+
+    <string name="contentDescription">ContentDescription</string>
+    <string name="textView">TextView</string>
+
+    <string name="lista_de_ofertas">Lista de Ofertas</string>
+    <string name="obten_esta_oferta">Obtén esta Oferta</string>
+    <string name="valido_hasta">Valido hasta</string>
+    <string name="website">Website</string>
+    <string name="oferta">Oferta</string>
+    <string name="description">Description</string>
+    <string name="detalles_de_la_oferta">Detalles de la oferta</string>
+</resources>
