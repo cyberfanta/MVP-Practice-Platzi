@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MVC Practice Platzi</string>
+    <string name="app_name">MVP Practice Platzi</string>
 
     <string name="contentDescription">ContentDescription</string>
     <string name="textView">TextView</string>
